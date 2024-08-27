@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "386356965470",
+    "project_id": "hellowapp-5cae6",
+    "storage_bucket": "hellowapp-5cae6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:386356965470:android:df4cb3fa449e49ef4d84cf",
+        "android_client_info": {
+          "package_name": "com.gabrieltsujimoto.whatsappclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwbbf8ByKPWYNfXBImSFEYDXy0KVfHRes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
