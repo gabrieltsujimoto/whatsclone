@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.gabrieltsujimoto.whatsappclone" />
+                  <option name="mobileSdkAppId" value="1:386356965470:android:df4cb3fa449e49ef4d84cf" />
+                  <option name="projectId" value="hellowapp-5cae6" />
+                  <option name="projectNumber" value="386356965470" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
